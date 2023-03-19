@@ -1,0 +1,28 @@
+000000.000| ALWAYS| Logging started at 2022-08-23T18:46:12.253
+000000.001| ALWAYS| Application Version: 57.0.0.4607449
+000000.032|   OKAY| Sentry Enabled
+000000.033|   OKAY| Set default locale to en_US. Current locale is en_US.
+000000.034| ALWAYS| Command Line Arguments (Riot Client App):
+    --launch-product=valorant
+    --launch-patchline=live
+    --app-root=C:/Riot Games/Riot Client
+    --data-root=C:/ProgramData/Riot Games/Metadata
+    --update-root=C:/ProgramData/Riot Games/Metadata/Riot Client/Update
+    --log-root=C:/Users/Sumeet Maheshwari/AppData/Local/Riot Games/Riot Client/Logs
+    --user-data-root=C:/Users/Sumeet Maheshwari/AppData/Local/Riot Games/Riot Client
+    --session-id=834e3a6c-248d-5749-8619-6c7d34e6ae18
+000000.034| ALWAYS| App: Running Riot Client version 57.0.0.4607449
+000000.035| ALWAYS| Command Line Arguments (SDKModule):
+    --launch-product=valorant
+    --launch-patchline=live
+    --app-root=C:/Riot Games/Riot Client
+    --data-root=C:/ProgramData/Riot Games/Metadata
+    --update-root=C:/ProgramData/Riot Games/Metadata/Riot Client/Update
+    --log-root=C:/Users/Sumeet Maheshwari/AppData/Local/Riot Games/Riot Client/Logs
+    --user-data-root=C:/Users/Sumeet Maheshwari/AppData/Local/Riot Games/Riot Client
+    --session-id=834e3a6c-248d-5749-8619-6c7d34e6ae18
+    --persistence-path=C:/Users/Sumeet Maheshwari/AppData/Local/Riot Games/Riot Client
+000000.782|   OKAY| ProcessSingleton: Did not initially acquire process singleton
+000000.799|   OKAY| ProcessSingleton: Message to other Riot Client succeeded
+000000.800|   OKAY| ProcessSingleton: Did not acquire process singleton
+000000.802|   OKAY| App: Client already running, exiting.
