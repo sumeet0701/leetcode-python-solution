@@ -1,0 +1,16 @@
+pandas
+numpy 
+seaborn
+matplotlib
+sklearn
+dill
+flask
+flask-cors
+gunicorn
+PyYAML
+pymongo[srv]
+dnspython
+xgboost
+optuna
+evidently
+-e.
