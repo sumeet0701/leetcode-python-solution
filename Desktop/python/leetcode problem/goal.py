@@ -10,8 +10,6 @@ Given the string command, return the Goal Parser's interpretation of command.
 """
 
 def goal(command):
-    word = '()'
-    lst = command.split(word)
-    print(lst)
-
-print(goal("G()(al)"))
+    command = command.replace("()", 'o')
+    command = command.replace("(al)", 'al')
+    return command
