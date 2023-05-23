@@ -1,4 +1,0 @@
-use google_interview_question;
-create table session1(
-date
-)
